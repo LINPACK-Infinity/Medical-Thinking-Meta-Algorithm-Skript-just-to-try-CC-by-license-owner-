@@ -1,0 +1,1 @@
+{"PE||D-Dimer": {"pos": 6.0, "neg": 0.2}, "NSTEMI||TropT": {"pos": 10.0, "neg": 0.1}, "Sepsis||PCT": {"pos": 8.0, "neg": 0.25}, "Sepsis||Laktat": {"pos": 2.0, "neg": 0.7}, "Aortendissektion||CT_Aortenzeichen": {"pos": 12.0, "neg": 0.3}, "Pneumothorax||Pneumothorax_Sono": {"pos": 20.0, "neg": 0.05}}
